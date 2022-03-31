@@ -19,6 +19,6 @@ Destina-se a qualquer pessoa interessada, que não apresente comorbidades respir
 - Instruções sobre técnicas de respiração
 ## Aprendizado
 
-A construção desse projeto foi meu primeiro contato com a programação em Swift então, tudo foi aprendizado, desde enterder os conceitos de cada funcionalidade da lingguagem como variáveis, funções, while, switchs, prints, readLine() até a construção do código e submissão em repositório.
+A construção desse projeto foi meu primeiro contato com a programação em Swift então, tudo foi aprendizado, desde enterder os conceitos de cada funcionalidade da linguagem como variáveis, funções, while, switchs, prints, readLine() até a construção do código e submissão em repositório.
 ## Autora
 - Marília de Sousa
